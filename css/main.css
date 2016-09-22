@@ -1,0 +1,62 @@
+*{
+	font-family:"family Merriweather"
+}
+
+.navbar{
+	background-color: #DA2C38;
+	margin-bottom:0%;
+	border:none;
+	border-radius:0;
+}
+.navbar-default .navbar-brand{
+	color: #F4F0BB;
+}
+.navbar-default .navbar-nav li a {
+	color: #F4F0BB;
+}
+
+.negro{
+	background-color:black;
+
+}
+.fondo{
+	background-image:url(../img/creamy.jpg);
+	background-position:center;
+	opacity:0.5;
+	padding:15%;
+}
+.best{
+	color:black;
+}
+
+.cream{
+	background-color: #F4F0BB;
+	padding:2%;
+}
+
+.about{
+	background-color:#DA2C38;
+	padding:2%; 
+}
+.tipos{
+	background-color:#F4F0BB;
+	padding:6%;
+} 
+.glyphicon{
+	font-size:70px;
+	color:#DA2C38; 
+}
+.red{
+	color:#DA2C38;
+}
+.bco{
+	color:#F4F0BB;
+}
+
+footer{
+	background-color:#DA2C38;
+	color:#F4F0BB;
+	padding:1%;
+}
+
+
